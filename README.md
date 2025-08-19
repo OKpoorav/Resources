@@ -17,9 +17,9 @@ It’s public so others can also explore if they find it helpful.
 - [BentoGrids](https://bentogrids.com/) – Grid layouts and UI snippets for building clean Bento-style designs.  
 - [Grainient Supply](https://grainient.supply/freebies) – Free gradient packs, assets, and UI resources.  
 
----
+
 ### Learning / Utilities 
-- [code2tutorial](https://code2tutorial.com)) – Convert GitHub repositories into step-by-step tutorials.
+- [code2tutorial](https://code2tutorial.com) – Convert GitHub repositories into step-by-step tutorials.
 ---
 ## 📝 Note
 
