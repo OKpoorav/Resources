@@ -20,6 +20,7 @@ It’s public so others can also explore if they find it helpful.
 
 ### Learning / Utilities 
 - [code2tutorial](https://code2tutorial.com) – Convert GitHub repositories into step-by-step tutorials.
+- [Probability](https://www.youtube.com/watch?v=H6pWY2VQ9xI) - Probably the best way to learn probability. 
 ---
 ## 📝 Note
 
