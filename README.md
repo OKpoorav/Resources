@@ -22,7 +22,7 @@ It’s public so others can also explore if they find it helpful.
 - [Probability](https://probability.dev) – Probably the best way to learn probability.  
 
 ### Editors / IDEs
-- [Zed](https://zed.dev) – Ultra-fast collaborative code editor (lacks a strong community but the speed makes up for it)
+- [Zed](https://zed.dev) – Ultra-fast collaborative code editor (lacks a strong community but trust me your system will thank you)
 
 ### Automation / Task Runners
 - [Taskfile.dev](https://taskfile.dev) – YAML-based task automation, a modern alternative to Makefiles.  
